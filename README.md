@@ -1,7 +1,7 @@
 ### Hello,I am Somya !
 I am a final year undergrad pursuing Computer Science Engineering from [BIT,Mesra](https://www.bitmesra.ac.in/).
 I am interested in problem solving and currently improving upon the same.
-I also keep interest in web development.
+I also keep interest in web development and machine learning.
 - 🌱 Fascinated by **Tech,Movies,Books,History(Mostly in that order)**
 
 
