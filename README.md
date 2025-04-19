@@ -16,6 +16,5 @@ I also keep interest in web development and machine learning.
 📫 <a>singhsomya121@gmail.com</a>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=somya121)
 
 
